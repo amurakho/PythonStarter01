@@ -1,0 +1,16 @@
+1. Функция как объект первого класса
+
+2. Функции внутри структуры данных
+
+3. Лямбда
+
+4. Замыкания, Функции высшего порядка, Каррирование
+
+7. Декораторы
+
+8. map, filter, functools, reduce, lru_cache, partial
+
+9. itertools. product, permutations, combinations, chain,
+takewhile, dropwhile
+
+10. operator

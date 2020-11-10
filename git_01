@@ -1,0 +1,5 @@
+1. .gitignore
+
+3. git restore
+
+2. ветки. git branch <branch_name> [<start_commit>]

@@ -1,0 +1,13 @@
+1. Модули
+
+2. import. as, __pycache__
+
+3. if __name__
+
+4. from, *
+
+5. sys, argv, path, os.path.join
+
+6. Пакеты
+
+7. venv,  установка модулей
